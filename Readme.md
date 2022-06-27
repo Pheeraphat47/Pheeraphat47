@@ -8,7 +8,9 @@ Programming Languages:
 
 Framework:
 
-![image](https://user-images.githubusercontent.com/107838345/175941511-04999183-2a29-4cd9-a02a-0367cbaa5b98.png) ![image](https://user-images.githubusercontent.com/107838345/175941542-a83d3d15-8292-4471-a65b-0b6e3ff6eb82.png)
+![image](https://user-images.githubusercontent.com/107838345/175941762-888e46c9-94ad-4938-adbf-8f1fc2e57cda.png)
+![image](https://user-images.githubusercontent.com/107838345/175941810-c6838788-2af9-47c6-95ba-64a7d38b2b34.png)
+
 
 
 
