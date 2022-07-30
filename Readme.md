@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/107838345/181875301-d328a0ab-6eb9-409d-b092-ae0b12a8e7f9.png)
+https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif
 <h1>Hello world!: I'm Pheeraphat Dherachaisuphakij </h1>
 
 <h3> I'm interested in Frontend Development </h3>
