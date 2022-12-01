@@ -1,7 +1,11 @@
 <h1>Hello world!! : I'm Pheeraphat Dherachaisuphakij </h1>
 
 <h4> I'm a freshmen from the School of information technolgy , my major is information technology , I wants to learn new experiences and improve myself in a better direction. I am ready to cooperate with the team and share creative ideas with others. Therefore I'm ready to fix the problem no matter how hard it is </h4>
-<br>
+
+<h3> Design : </h3>
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <h3> Programming Language : </h3>
 
@@ -19,6 +23,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 <h3>  Hosting/SaaS : </h3>
 
