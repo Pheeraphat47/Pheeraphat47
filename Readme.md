@@ -15,11 +15,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <h3> Frameworks & Libraries : </h3>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white ) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <h3> Version Control : </h3>
@@ -34,9 +37,9 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheeraphat47&layout=compact)
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheeraphat47)](https://github.com/anuraghazra/github-readme-stats)
+  
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pheeraphat47&show_icons=true&theme=radical)
