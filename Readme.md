@@ -1,5 +1,5 @@
 <h1>Hello world!! I'm Pheeraphat Dherachaisuphakij :wave: </h1>
-<h2> I'm Interested in FrontEnd Development :technologist:
+<h2> I'm Interested in FrontEnd Developer :technologist:
 
 <h4>:student:  I'm a freshmen from the School of information technolgy , my major is information technology , I wants to learn new experiences and improve myself in a better direction. I am ready to cooperate with the team and share creative ideas with others. Therefore I'm ready to fix the problem no matter how hard it is </h4>
 <br>
