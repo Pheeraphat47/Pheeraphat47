@@ -46,7 +46,11 @@
 <br>
  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pheeraphat47&show_icons=true&theme=radical)  [![GitHub Streak](https://streak-stats.demolab.com/?user=pheeraphat47&theme=radical)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pheeraphat47&show_icons=true&theme=radical)  
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pheeraphat47&theme=radical)](https://git.io/streak-stats) 
 
  
  
