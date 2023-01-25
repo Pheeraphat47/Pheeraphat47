@@ -39,17 +39,15 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<br> 
- 
+<br>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheeraphat47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
  
 <br>
  
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pheeraphat47&show_icons=true&theme=radical) 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=pheeraphat47&theme=radical)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pheeraphat47&show_icons=true&theme=radical)  [![GitHub Streak](https://streak-stats.demolab.com/?user=pheeraphat47&theme=radical)](https://git.io/streak-stats)
+
  
  
 
