@@ -50,7 +50,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pheeraphat47&theme=radical)](https://git.io/streak-stats) 
+
 
  
  
