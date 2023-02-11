@@ -41,7 +41,8 @@
 
 <br>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pheeraphat47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Github Stats :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pheeraphat47&layout=compact)
  
 <br>
  
