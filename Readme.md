@@ -12,7 +12,7 @@ I'm Interested in FrontEnd Developer 🧑‍💻
 * 🧠  I'm learning Tailwind and React
 * 🤝  I'm open to collaborating on Web Application Projects
 
-### Skills
+### Skills :
 
 
 <p align="left">
@@ -29,13 +29,13 @@ I'm Interested in FrontEnd Developer 🧑‍💻
 </p>
 
 
-### Socials
+### Socials :
 
 <p align="left"> <a href="https://discord.com/users/904992973316571147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/pheeraphat.dherachaisuphakij" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/pheeraphat47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/phx_pd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pheeraphat-dherachaisuphakij-33718b250/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Badges :
 
-<b>My GitHub Stats</b>
+<b>📊 My GitHub Stats</b>
 
 <a href="http://www.github.com/pheeraphat47"><img src="https://github-readme-stats.vercel.app/api?username=pheeraphat47&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pheeraphat47's GitHub stats" /></a>
 
