@@ -9,7 +9,7 @@ I'm Interested in FrontEnd Developer 🧑‍💻
 * 🌍  I'm based in Bangkok , Thailand
 * 🖥️  See my portfolio at [Portfolio](http://pheeraphat.netlify.app)
 * ✉️  You can contact me at [dpheeraphat2547@gmail.com](mailto:dpheeraphat2547@gmail.com)
-* 🧠  I'm learning Tailwind and React
+* 🧠  I'm currently learning TypeScript and Nextjs
 * 🤝  I'm open to collaborating on Web Application Projects
 
 ### Skills :
