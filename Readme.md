@@ -47,9 +47,11 @@ I'm Interested in FrontEnd Developer 🧑‍💻
 
 <br />
 
-## CRUD Application :
+## :pencil2: Landing Page :
 <br />
 
-<div width="100%" align="center"><a href="https://github.com/Pheeraphat47/IForgot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pheeraphat47&repo=IForgot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Pheeraphat47/TypeScript-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pheeraphat47&repo=TypeScript-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Pheeraphat47/huddle-landing-page-with-curved-sections" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pheeraphat47&repo=huddle-landing-page-with-curved-sections&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Pheeraphat47/News-Homepage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pheeraphat47&repo=News-Homepage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-## Landing Page :
+
+
+<div width="100%" align="center"><a href="https://github.com/Pheeraphat47/sunnyside-agency-landingpage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pheeraphat47&repo=sunnyside-agency-landingpage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
