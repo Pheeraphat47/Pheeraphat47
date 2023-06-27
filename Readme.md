@@ -9,8 +9,8 @@ I'm Interested in FrontEnd Developer 🧑‍💻
 * 🌍  I'm based in Bangkok , Thailand
 * 🖥️  See my portfolio at [Portfolio](https://pheeraphat.works)
 * ✉️  You can contact me at [dpheeraphat2547@gmail.com](mailto:dpheeraphat2547@gmail.com)
-* 🧠  I'm currently learning TypeScript and Nextjs
-* 🤝  I'm open to collaborating on Web Application Projects
+* 🧠  I'm currently learning TypeScript , Nextjs and Flutter
+* 🤝  I'm open to collaborating on Web App and Mobile App Projects
 
 ### Skills 
 <p align="left">
