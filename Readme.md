@@ -7,7 +7,7 @@ I'm Interested in FrontEnd Developer , Data Analyst and Product Manager 🧑‍�
 🧑‍🎓 As a sophomore studying Information Technology at King mongkut's university of technology Thonburi I'm highly motivated to pursue new experiences and personal growth. I'm passionate about collaborating with teams, sharing innovative ideas, and solving complex challenges. I thrive in high-pressure situations and am dedicated to overcoming any obstacles in pursuit of success
 
 * 🌍  I'm based in Bangkok , Thailand
-* 🖥️  See my portfolio at [Portfolio](https://pheeraphat.works)
+* 🖥️  See my portfolio at [Portfolio](https://pheeraphat-portfolio-beta.vercel.app/)
 * ✉️  You can contact me at [dpheeraphat2547@gmail.com](mailto:dpheeraphat2547@gmail.com)
 * 🧠  I'm currently learning TypeScript , Nextjs and Flutter
 * 🤝  I'm open to collaborating on Web App and Mobile App Projects
