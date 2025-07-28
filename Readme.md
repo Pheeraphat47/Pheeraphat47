@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pheeraphat Dherachaisuphakij ( PHEE )
 ====================================================================================================================================================
 
-I'm Interested in FrontEnd Developer , Data Analyst and Product Manager 🧑‍💻
+I'm Interested in Product Management , Business , UX and Tech 🧑‍💻
 ------------------------------------------
 
 🧑‍🎓 As a sophomore studying Information Technology at King mongkut's university of technology Thonburi I'm highly motivated to pursue new experiences and personal growth. I'm passionate about collaborating with teams, sharing innovative ideas, and solving complex challenges. I thrive in high-pressure situations and am dedicated to overcoming any obstacles in pursuit of success
